@@ -2,7 +2,7 @@
   "name": "safe-deployments2",
   "version": "1.16.0",
   "description": "Collection of Safe singleton deployments",
-  "homepage": "https://github.com/gnosis/safe-deployments/",
+  "homepage": "https://github.com/tfxq/safe-deployments2/",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
