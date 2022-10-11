@@ -1,5 +1,5 @@
 {
-  "name": "@gnosis.pm/safe-deployments",
+  "name": "safe-deployments2",
   "version": "1.16.0",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/gnosis/safe-deployments/",
